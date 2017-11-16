@@ -1,0 +1,12 @@
+﻿h1 {
+	color: blue;
+}
+
+body {
+	background-color: gray;
+}
+
+.important {
+	color: red;
+	font-weight: bold;
+}
