@@ -1,18 +1,16 @@
 ﻿h1 {
 	color: blue;
+	font-weight: bolder;
 }
 
 body {
 	background-color: gray;
 }
 
-.important {
-	color: red;
-	font-weight: bold;
-}
 
 nav {
 	text-align: center;
+	font-weight: bold;
 	color: #8080ff
 	background-color: #ffb3b3
 }
