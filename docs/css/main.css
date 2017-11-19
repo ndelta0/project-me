@@ -1,0 +1,61 @@
+body {
+  font-family: Roboto, Calibri, "Fira Mono",sans-serif;
+  background-image: url(img/main/background_main.jpeg);
+  background-attachment: fixed;
+  background-clip: padding-box;
+}
+
+.header_main {
+   font-weight: bolder;
+   text-align: center;
+   text-shadow: 5px 2px 4px yellow;
+ }
+
+nav {
+  font-weight: 600;
+  text-align: center;
+  word-spacing: 1cm;
+  font-variant: small-caps;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 70px;
+}
+
+.wordspacing-none {
+  word-spacing: normal;
+}
+
+nav.main {
+  width: 99.9%;
+  border: 5px;
+  border-style: ridge;
+  border-color: #C0C0C0;
+  background-color: #B0B0B0;
+}
+
+div.half-transparent {
+  background-color: rgba(255,255,255,0.5);
+  margin: 1cm;
+  padding: 5px;
+}
+
+a {text-decoration: none;}
+
+a:link {
+  color: hsl(120, 100%, 50%);
+}
+
+a:hover {
+  color: hsl(12, 100%, 50%);
+}
+
+a:active {
+  color: hsl(180, 100%, 50%);
+}
+
+a:visited {
+  color: hsl(0, 0%, 0%);
+}
